@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  /* .container {
+   
+  } */
+  
+  .navbar-container {
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .list {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+  }
+  .search-icon svg {
+    margin-right: 10px;
+  }
+  .nav-button {
+    margin-right: 100px;
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    border: solid black 2px;
+    background-color: white;
+  }
+  ul > li:first-child {
+    font-weight: bold;
+  }
+  div ul li {
+    padding: 0 20px 0 20px;
+    font-family: "Orbitron";
+    font-size: 22px;
+  }
+  
+  .navbar-container img {
+    margin-left: 100px;
+    width: 100px;
+    height: 35px;
+  }
+  .hero-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .square img {
+    width: 308px;
+    height: 364px;
+    position: relative;
+    top: 172px;
+    left: 332px;
+  }
+  .img img {
+    width: 315px;
+    height: 427px;
+    position: absolute;
+    top: 131px;
+    left: 263px;
+  }
+  .star img {
+    margin-left: 279px;
+    margin-top: -32px;
+    width: 30px;
+    height: 25px;
+  }
+  .globe img {
+    width: 30px;
+    height: 25px;
+    margin-left: 13px;
+    margin-top: -139px;
+  }
+  .hero-container-right {
+    display: flex;
+    margin-top: 131px;
+    margin-left: 400px;
+    flex-direction: column;
+  }
+  .icons {
+    display: flex;
+  }
+  
+  .hero-heading {
+    font-size: 45px;
+    font-family: Orbitron;
+  }
+  
+  .hero-description {
+    font-size: 10px;
+    font-family: Orbitron;
+    margin-top: 70px;
+  }
+  .button-email {
+    width: 177px;
+    height: 25px;
+    background: none;
+    border-radius: 7px;
+    padding: 0 5px 0 5px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-family: Orbitron;
+    color: gray;
+    outline: none;
+  }
+  
+  .button-join {
+    width: 97px;
+    height: 23px;
+    margin-left: 20px;
+    padding: 0 2px 0 2px;
+    border: none;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    font-family: Orbitron;
+  }
+  
+  .contact-heading {
+    margin-left: 206px;
+    margin-top: 3px;
+    font-size: 20px;
+    color: rgb(53 49 49 / 57%);
+  }
+  
+  .icons {
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 350px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .icons img {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .in-star img {
+    margin-left: -10px;
+    margin-top: 50px;
+    width: 38px;
+    height: 37px;
+  }
+  
