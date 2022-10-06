@@ -7,6 +7,7 @@
   
 
 ## Preview
+![See Preview](./Project_1_preview.png)
 [See](https://github.com/Shyam-Pandey/Project_1/commit/20530ddf38b632a00e5c465642784bf85d3170c9)
 
 ## Live Link
