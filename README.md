@@ -8,7 +8,6 @@
 
 ## Preview
 ![See Preview](./Project_1_preview.png)
-[See](https://github.com/Shyam-Pandey/Project_1/commit/20530ddf38b632a00e5c465642784bf85d3170c9)
 
 ## Live Link
 [Link](https://whatstrends.netlify.app)
@@ -22,4 +21,4 @@
 
 ## Learning during project creation.
 1. I have learned a lot during creation of project
-2. How to create navbar and and make responsive website.
+2. How to create navbar and designa landing page.
